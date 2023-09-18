@@ -1,0 +1,42 @@
+h1 {
+    margin-left: 5% ;
+    font-size: 35px;
+}
+
+.description {
+    /*text-indent: 30px;*/
+    margin-left: 5%;
+    font-size: 20px;
+    width: 80%;
+}
+nav li, footer li {
+    display:inline-block;
+    padding: 0 0.5% 0.5% 0;
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+h2 {
+    margin-left: 5%;
+}
+
+.mainPicture {
+    text-align: center;
+}
+
+.firstColumn {
+    width: 15%;
+    padding: 1%;
+    font-size: 25px;
+}
+
+.secondColumn {
+    padding: 1%;
+    font-size: 17px;
+}
+
+.pictureFromBlock {
+    width: 33%;
+    height: auto;
+    border-radius: 5px;
+}
